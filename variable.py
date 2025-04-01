@@ -12,3 +12,30 @@ score = 5000
 print(score)
 score = score * 3
 print(score)
+
+# variable syntax
+# allow
+p1 = 1
+p_11 = 3
+frist_name = "lorn"
+# not allow
+# 1. start with num
+# 1pppp
+
+# 2. with space
+# play python
+
+# 3. keyword
+# class / for / not / is 
+
+# recommand
+# variable meaningful
+# good name
+score = 100
+count = 30
+# not good name, no one can understand
+x = 5
+a = "no"
+# First letter upperCase
+Age = 123
+TT_123 = 5555
